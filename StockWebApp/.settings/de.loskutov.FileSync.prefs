@@ -1,0 +1,8 @@
+WARNING=DO NOT MODIFY THIS FILE IF YOU DON'T UNDERSTAND
+defaultDestination=
+defaultVariables=
+eclipse.preferences.version=1
+includeTeamPrivateFiles=false
+map|0=src/main/webapp|D\:/java/apache-tomcat-7.0.63/webapps/StockWebApp|,|,|,
+map|1=target/classes|D\:/java/apache-tomcat-7.0.63/webapps/StockWebApp/WEB-INF/classes|,|,|,
+useCurrentDateForDestinationFiles=false
