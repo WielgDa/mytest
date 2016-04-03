@@ -1,2 +1,3 @@
 #remove all targer folders generated automatically by synch
-/target
+*/target
+StockWebApp/target
